@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-label="Ashmit Kumar AI engineer profile card">
+<style>.t{font-family:"Courier New",Consolas,monospace;fill:currentColor}.m{font-size:20px}.s{font-size:17px}.b{font-weight:700}</style>
+<rect x="2" y="2" width="896" height="416" rx="16" fill="none" stroke="currentColor" stroke-opacity=".22"/>
+<circle cx="28" cy="28" r="6" fill="currentColor" opacity=".45"/><circle cx="50" cy="28" r="6" fill="currentColor" opacity=".30"/><circle cx="72" cy="28" r="6" fill="currentColor" opacity=".20"/>
+<text x="105" y="35" class="t s">ashmit@github: ~/profile</text>
+<text x="32" y="78" class="t m b">$ whoami</text>
+<text x="32" y="108" class="t m">Ashmit Kumar</text>
+<text x="32" y="136" class="t s">Student • AI / ML</text>
+<text x="32" y="162" class="t s">Pursuing → AI Engineer</text>
+<text x="32" y="208" class="t m b">$ focus</text>
+<text x="32" y="238" class="t s">LLM Engineering • RAG • AI Agents</text>
+<text x="32" y="264" class="t s">Fine-tuning • Evaluation • Automation</text>
+<text x="32" y="310" class="t m b">$ stack</text>
+<text x="32" y="340" class="t s">TensorFlow • LangChain • PEFT • LoRA • vLLM</text>
+<text x="32" y="366" class="t s">n8n • Docker • Git</text>
+<text x="32" y="402" class="t s">status: building → learning → shipping</text>
+</svg>
