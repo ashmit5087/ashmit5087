@@ -1,20 +1,20 @@
-<p align="center">
-  <img src="./assets/ashmit-ascii.svg" width="720" alt="Animated ASCII portrait"/>
-</p>
+<div align="center">
+<h3><code>ashmit@github ~ $ ./contributions.sh</code></h3>
+<img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap"/>
+<br><br>
+<h3><code>ashmit@github ~ $ whoami</code></h3>
+<table><tr><td valign="top"><img src="./assets/ashmit-ascii.svg" width="370" alt="Animated ASCII portrait"/></td><td valign="top"><img src="./assets/info-card.svg" width="490" alt="AI engineer terminal profile"/></td></tr></table>
+<br>
+<h3><code>ashmit@github ~ $ ./about.sh</code></h3>
+</div>
 
-<p align="center">
-  <img src="./assets/info-card.svg" width="900" alt="Ashmit Kumar profile card"/>
-</p>
+I'm an **AI/ML student pursuing the path toward AI Engineering**.
 
-## `ashmit@github:~$ whoami`
-
-AI/ML student pursuing the path toward **AI Engineering**.
-
-I learn by building real systems — from RAG pipelines and fine-tuned models to AI agents, evaluation workflows, inference systems, and automation.
-
-## `./currently-learning.sh`
+I learn by building real systems — especially around **LLMs, RAG, fine-tuning, evaluation, agents, inference, and automation**.
 
 ```text
+CURRENTLY EXPLORING
+
 → LLM Engineering
 → RAG & Retrieval
 → Fine-tuning with PEFT / LoRA
@@ -24,27 +24,20 @@ I learn by building real systems — from RAG pipelines and fine-tuned models to
 → AI Automation
 ```
 
-## `./stack.sh`
+<div align="center">
+<h3><code>ashmit@github ~ $ ./stack.sh</code></h3>
 
-```text
-Machine Learning   TensorFlow
-LangChain          RAG
-PEFT / LoRA        Fine-tuning
-vLLM               Evals
-n8n                Docker
-Git
-```
+| Area | Tools |
+|---|---|
+| ML | Machine Learning · TensorFlow |
+| LLM | LangChain · RAG · PEFT · LoRA |
+| Inference | vLLM |
+| Evaluation | LLM Evals |
+| Automation | n8n |
+| Engineering | Git · Docker |
 
-## `./projects.sh`
-
-> Featured projects will live here as I ship them.
-
-## `./activity.sh`
-
-<p align="center">
-  <img src="./assets/contrib-heatmap.svg" width="900" alt="Contribution activity"/>
-</p>
-
----
-
-<p align="center"><i>Build. Evaluate. Iterate. Ship.</i></p>
+<h3><code>ashmit@github ~ $ ./projects.sh</code></h3>
+**Featured projects will be added here as you ship them.**
+<br><br>
+<code>build → evaluate → iterate → ship</code>
+</div>
